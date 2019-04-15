@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  what_grateful_for: MyString
+  who_grateful_for: MyString
+  future_grateful_for: MyString
+
+two:
+  what_grateful_for: MyString
+  who_grateful_for: MyString
+  future_grateful_for: MyString

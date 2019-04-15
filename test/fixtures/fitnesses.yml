@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  intensity: 1
+  time_spent: 1
+  one_improvement: MyString
+
+two:
+  type: 
+  intensity: 1
+  time_spent: 1
+  one_improvement: MyString

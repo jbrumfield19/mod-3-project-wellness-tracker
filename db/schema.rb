@@ -69,7 +69,7 @@ ActiveRecord::Schema.define(version: 2019_04_15_215538) do
     t.string "first_name"
     t.string "last_name"
     t.string "email"
-    t.string "password"
+    t.string "password_digest"
     t.string "profile_pic"
     t.string "star_sign"
     t.string "gender"

@@ -4,4 +4,6 @@ class User < ApplicationRecord
     has_many :gratitudes
     has_many :moods
     has_many :sleeps
+
+    has_secure_password
 end
